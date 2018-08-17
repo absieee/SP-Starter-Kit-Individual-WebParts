@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "world-time-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/worldTime/WorldTimeWebPart.js",
+          "manifest": "./src/webparts/worldTime/WorldTimeWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "WorldTimeWebPartStrings": "lib/webparts/worldTime/loc/{locale}.js"
+  }
+}

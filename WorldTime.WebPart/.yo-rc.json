@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "world-time-web-part",
+    "libraryId": "834b8b74-77ee-4f00-b445-19af879a5e74",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

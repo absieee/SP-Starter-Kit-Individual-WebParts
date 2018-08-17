@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "world-time-web-part-client-side-solution",
+    "id": "834b8b74-77ee-4f00-b445-19af879a5e74",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/world-time-web-part.sppkg"
+  }
+}
