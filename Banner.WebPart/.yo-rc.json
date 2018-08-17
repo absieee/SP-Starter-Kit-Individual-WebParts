@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "banner-web-part",
+    "libraryId": "9f021ea6-bfd8-4a02-964e-c1e58809583f",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
