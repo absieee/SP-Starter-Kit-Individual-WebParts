@@ -1,4 +1,4 @@
-# SP-Starter-Kit-Individual-WebParts
+# SP Starter Kit - Individual Webparts
 
 This repository contains individually packaged webparts from the SharePoint Intranet Starter Kit provided here: https://github.com/SharePoint/sp-starter-kit
 
