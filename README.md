@@ -1,1 +1,0 @@
-# SP-Starter-Kit-Individual-WebParts
