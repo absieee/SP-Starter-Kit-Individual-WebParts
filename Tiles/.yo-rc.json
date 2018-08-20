@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "tiles",
+    "libraryId": "3f519331-dea5-46ee-bef8-6afc0b52ebdd",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
