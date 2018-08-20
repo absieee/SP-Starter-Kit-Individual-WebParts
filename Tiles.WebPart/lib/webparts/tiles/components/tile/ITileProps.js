@@ -1,0 +1,3 @@
+
+
+//# sourceMappingURL=ITileProps.js.map
